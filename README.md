@@ -1,6 +1,6 @@
 # Docker template for travis CI
 
-[![Build Status](https://travis-ci.com/takecy/travis-docker-template.svg?branch=master)](https://travis-ci.com/takecy/travis-docker-template)
+[![Build Status](https://travis-ci.org/takecy/travis.docker.svg?branch=master)](https://travis-ci.org/takecy/travis.docker)
 
 [TravisCI](https://travis-ci.org/)
 
